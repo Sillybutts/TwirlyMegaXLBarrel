@@ -50,7 +50,6 @@ I think that's everything I need to say here, so go and have fun with MegaXL usi
 <img src="GHimages/Armatus%20Sillybutts%20Messages.png" width="500">
 <img src="GHimages/Armatus%20to%20my%20friend.png" width="500">
 <img src="GHimages/Cancel%20Armatus.png" width="500">
-<img src="GHimages/Messages%20With%20Seller%20Redacted%20Personal%20Info.PNG" width="500">
 
 </details>
 
@@ -102,4 +101,3 @@ Part volume: 43mm x 43mm x 121mm
 <img src="GHimages/Armatus%20Sillybutts%20Messages.png" width="500">
 <img src="GHimages/Armatus%20to%20my%20friend.png" width="500">
 <img src="GHimages/Cancel%20Armatus.png" width="500">
-<img src="GHimages/Messages%20With%20Seller%20Redacted%20Personal%20Info.PNG" width="500">
