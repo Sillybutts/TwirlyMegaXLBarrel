@@ -1,5 +1,5 @@
 # Twirly MegaXL Barrel
-A super-accurate MegaXL barrel that imparts a spin on the dart as it exits the barrel.
+A super-accurate MegaXL barrel that imparts a spin on the dart as it exits the barrel. 
 
 <img src="GHimages/MegaXL%20Twirly%20Barrel%20Improved%20v12.png" width="500">
 <img src="GHimages/MegaXL%20Twirly%20Barrel%20Improved%20v12%202.png" width="500">
