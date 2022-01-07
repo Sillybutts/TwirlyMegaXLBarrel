@@ -1,6 +1,12 @@
 # Twirly MegaXL Barrel
 A super-accurate MegaXL barrel that imparts a spin on the dart as it exits the barrel. 
 
+
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
 <img src="GHimages/MegaXL%20Twirly%20Barrel%20Improved%20v12.png" width="500">
 <img src="GHimages/MegaXL%20Twirly%20Barrel%20Improved%20v12%202.png" width="500">
 <img src="GHimages/MegaXL%20Twirly%20Barrel%20Improved%20v12%203.png" width="500">
@@ -11,6 +17,12 @@ A super-accurate MegaXL barrel that imparts a spin on the dart as it exits the b
 
 <details>
 <summary>The story of why I made this barrel is pretty long, so here it is all in a drop-down menu. Feel free to read if you want. (Click this text)</summary>
+
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
 Gather around everyone, it's story time.
 
 This text might not flow very well when read, but I have written it in the most blunt and neutral tone possible in order to avoid any confusion.
@@ -53,6 +65,12 @@ I think that's everything I need to say here, so go and have fun with MegaXL usi
 
 </details>
 
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
+
 ### Here is the much shorter and more informationally useful version:
 
 
@@ -70,6 +88,12 @@ Thanks to Submarino Fab for helping me out by making the flute profiles smoother
 Have fun with MegaXL using the MegaXL Twirly barrel!
 
 
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
+
 ## Print Info
 
 This design needs no supports, but might need a brim depending on your printer. All STLs were exported in their print orientation.
@@ -80,6 +104,12 @@ Print time of around 4 hours @ 20% Gyroid, 2 wall, 70mm/s.
 
 Part volume: 43mm x 43mm x 121mm
 
+
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
 ## Misc.
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
@@ -87,6 +117,13 @@ Part volume: 43mm x 43mm x 121mm
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 - **If you want to support what I do, go buy stuff at my RedBubble! https://www.redbubble.com/people/Sillybutts/shop**
+
+
+#PLEASE READ
+###UPON FURTHER TESTING, I HAVE FOUND A BETTER BARREL DESIGN. THE TWIRLY BARREL ONLY OFFERED MARGINAL IMPROVEMENT UPON A SMOOTH BARREL, AND ONLY AT HIGH AIR VOLUME. THE NEW BARREL ALSO ONLY REALLY WORKS AT HIGH AIR VOLUME, BUT IS NOTICEABLY MORE ACCURATE THAN SMOOTH BARRELS. THE NEW BARREL CAN BE FOUND HERE: https://github.com/Sillybutts/TrivictusMegaXLBarrel
+
+###I AM LEAVING THIS PAGE UP FOR ARCHIVAL AND DEVELOPMENTAL REASONS. IF YOU THINK YOU CAN DO SOMETHING INTERESTING WITH THE TWIRLY BARREL, THE FILES ARE STILL AVAILABLE HERE.
+
 
 ## Images
 
